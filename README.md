@@ -1,7 +1,7 @@
 # MQTT
 MQTT Client HMI in Python to communicate via a Broker using Tkinter
 
-``
+```python
 import tkinter as tk
 import paho.mqtt.client as mqtt
 
@@ -78,6 +78,6 @@ labelSign=tk.Label(text="by PouletEnSlip © 2022", font="size 7")
 labelSign.grid(column=0, row=9, sticky='w')
 
 fen.mainloop()
-``
+```
 
 Made by PouletEnSlip © 2022 - All Rights Reserved
