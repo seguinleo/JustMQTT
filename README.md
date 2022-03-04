@@ -1,5 +1,5 @@
 # MQTT
-MQTT Client HMI in Python to communicate via a Broker using Tkinter
+MQTT Client HMI in Python to communicate via a Broker
 
 ```python
 import tkinter as tk
