@@ -1,5 +1,5 @@
 # MQTT
-MQTT Client HMI in Python to communicate via a Broker
+MQTT Client HMI built in Python to communicate via a Broker
 
 ```python
 import tkinter as tk
@@ -80,4 +80,4 @@ labelSign.grid(column=0, row=9, sticky='w')
 fen.mainloop()
 ```
 
-Made by PouletEnSlip © 2022 - All Rights Reserved
+Made by **PouletEnSlip** © 2022 - All Rights Reserved
