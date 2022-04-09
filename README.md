@@ -1,5 +1,5 @@
 # MQTT
-MQTT Client HMI built in Python to communicate via a Broker
+MQTT Client HMI built in Python to communicate via a Broker using Tkinter.
 
 ```python
 import tkinter as tk
