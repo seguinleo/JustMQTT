@@ -1,6 +1,9 @@
-# MQTT
-MQTT Client HMI built with Python to communicate via a Broker using Tkinter.
+# JustMQTT
+MQTT Client HMI built with Python to communicate via a Broker.
 
-![0](https://github.com/PouletEnSlip/MQTT/blob/main/mqtt.png)
+Username, broker ip and topic are stored in a local text file.
 
-Made by **PouletEnSlip** © 2022 - All Rights Reserved
+## Build
+``pyinstaller --onefile --icon=icon.ico JustMQTT.pyw``
+
+![0](https://github.com/PouletEnSlip/MQTT/blob/main/preview.png)
